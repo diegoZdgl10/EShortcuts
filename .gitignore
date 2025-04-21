@@ -1,0 +1,75 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio for Mac
+*.userprefs
+
+# ASP.NET / Web projects
+wwwroot/
+node_modules/
+dist/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+*.psmdcp
+*.sdf
+
+# Entity Framework
+Migrations/
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Backup & temp files
+*.bak
+*.tmp
+*.swp
+*~.nib
+*.orig
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publish outputs
+publish/
+
+# Global JSON for SDK settings
+global.json
+
